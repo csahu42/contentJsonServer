@@ -18,7 +18,6 @@
             "question":"binary question",
             "questionType":"BINARY",
             "answer":[
-               "",
                "TRUE",
                "FALSE"
             ]
