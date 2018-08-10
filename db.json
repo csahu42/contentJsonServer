@@ -4,55 +4,114 @@
       "msg":"Success"
    },
    "contentList":[
-      {
-         "contentId":"10005",
-         "contentType":"imageWithQuestion",
-         "contentText":"Content1",
-         "contentWebUrl":"",
-         "contentLikesCount":0,
-         "contentCommentsCount":0,
-         "contentSharesCount":0,
-         "hasQuestion":true,
-         "question":{
-            "questionId":"Q10002",
-            "question":"binary question",
-            "questionType":"BINARY",
-            "answer":[
-               "TRUE",
-               "FALSE"
-            ]
-         }
-      },
-      {
-         "contentId":"10081",
-         "contentType":"imageWithText",
-         "contentMediaUrl":"D:/Files/Content/20180807162809_10081_reliance-foundation.png",
-         "contentText":"Content2",
-         "contentWebUrl":"https://ril.medongo.com",
-         "contentLikesCount":0,
-         "contentCommentsCount":0,
-         "contentSharesCount":0,
-         "hasQuestion":false
-      },
-      {
-         "contentId":"10082",
-         "contentType":"imageWithQuestion",
-         "contentMediaUrl":"D:/Files/Content/20180807163055_10082_reliance-foundation.png",
-         "contentText":"",
-         "contentWebUrl":"",
-         "contentLikesCount":0,
-         "contentCommentsCount":0,
-         "contentSharesCount":0,
-         "hasQuestion":true,
-         "question":{
-            "questionId":"Q10010",
-            "question":"Question2",
-            "questionType":"BINARY",
-            "answer":[
-               "YES",
-               "NO"
-            ]
-         }
-      }
-   ]
+ {
+   "contentId": "10005",
+   "contentType": "imageWithQuestion",
+   "contentText": "Content1",
+   "contentWebUrl": "https://www.medongo.com/images/NewUI/data1/images/Home_Banner_4.jpg",
+   "contentLikesCount": 0,
+   "contentCommentsCount": 0,
+   "contentSharesCount": 0,
+   "hasQuestion": true,
+   "question": {
+     "questionId": "Q10002",
+     "question": "Modern lifestyle and diet is the cause of many health problems",
+     "questionType": "BINARY",
+     "answer": [
+       "TRUE",
+       "FALSE"
+     ]
+   }
+ },
+ {
+   "contentId": "10081",
+   "contentType": "imageWithText",
+   "contentMediaUrl": "https://www.medongo.com/images/NewUI/data1/images/Banner_02_wishlogo.jpg",
+   "contentText": "Content2",
+   "contentWebUrl": "https://www.medongo.com/control/home",
+   "contentLikesCount": 0,
+   "contentCommentsCount": 0,
+   "contentSharesCount": 0,
+   "hasQuestion": false
+ },
+ {
+   "contentId": "10084",
+   "contentType": "text",
+   "contentMediaUrl": "",
+   "contentText": "August 10 is the 222nd day of the year (223rd in leap years) in the Gregorian calendar. There are 143 days remaining until the end of the year.\n
+    The term 'the 10th of August' is widely used by historians as a shorthand for the Storming of the Tuileries Palace on the 10th of August, 1792, the effective end of the French monarchy until it was restored in 1814.\n
+    The Insurrection of 10 August 1792 was a defining event of the French Revolution. The storming of the Tuileries Palace by the National Guard of the Paris Commune and fédérés from Marseille and Brittany caused the fall of the French monarchy.\n
+    King Louis XVI and the royal family took shelter with the suspended Legislative Assembly. The formal end of the monarchy occurred six weeks later as one of the first acts of the new National Convention.\n
+   This insurrection and its outcomes are most commonly referred to by historians of the Revolution simply as \"the 10 August\"; other common designations include \"the day of the 10 August\" (French: journée du 10 août) or \"the Second Revolution\".",
+   "contentWebUrl": "https://en.wikipedia.org/wiki/Insurrection_of_10_August_1792",
+   "contentLikesCount": 0,
+   "contentCommentsCount": 0,
+   "contentSharesCount": 0,
+   "hasQuestion": false
+ },
+ {
+   "contentId": "10082",
+   "contentType": "imageWithQuestion",
+   "contentMediaUrl": "https://www.medongo.com/images/NewUI/data1/images/Home_Banner_3.jpg",
+   "contentText": "",
+   "contentWebUrl": "",
+   "contentLikesCount": 0,
+   "contentCommentsCount": 0,
+   "contentSharesCount": 0,
+   "hasQuestion": true,
+   "question": {
+     "questionId": "Q10010",
+     "question": "Are you suffering from cold due to changing weather?",
+     "questionType": "BINARY",
+     "answer": [
+       "YES",
+       "NO"
+     ]
+   }
+ }
+ {
+   "contentId": "10085",
+   "contentType": "question",
+   "contentMediaUrl": "",
+   "contentText": "",
+   "contentWebUrl": "",
+   "contentLikesCount": 0,
+   "contentCommentsCount": 0,
+   "contentSharesCount": 0,
+   "hasQuestion": true,
+   "question": {
+     "questionId": "Q10013",
+     "question": "How much water do you drink in a day approximately?",
+     "questionType": "singleChoice",
+     "answer": [
+       "2 litre",
+       "4 litre",
+        "6 litre",
+        "8 litre"
+     ]
+   }
+ }
+ {
+   "contentId": "10086",
+   "contentType": "imageWithQuestion",
+   "contentMediaUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/The_Cost_Of_The_Common_Cold_%26_Influenza.jpg",
+   "contentText": "",
+   "contentWebUrl": "",
+   "contentLikesCount": 0,
+   "contentCommentsCount": 0,
+   "contentSharesCount": 0,
+   "hasQuestion": true,
+   "question": {
+     "questionId": "Q10013",
+     "question": "Generally people get cold due to?",
+     "questionType": "multipleChoice",
+     "answer": [
+       "Weather change",
+"Drinking water change",
+        "Stress",
+        "Contact with people having cold"
+     ]
+   }
+ }
+]
 }
