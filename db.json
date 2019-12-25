@@ -4,7 +4,6 @@
       "msg":"Success"
    },
    "busData":{
-{
     "status": "success",
     "data": {
         "vehicle_status": "valid",
@@ -186,6 +185,6 @@
                 }
             ]
         }
-    }
+    
    }
 }
