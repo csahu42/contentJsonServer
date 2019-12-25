@@ -74,7 +74,7 @@
               "priority_order": 4,
               "pickup_location_distance_data": "8.6 km",
               "pickuplocation_to_pickuplocation_distance": "0.7 km",
-              "is_location_crossed": "1"
+              "is_location_crossed": "0"
             },
             {
               "_id": "5d691cd447e7d3131052f0d3",
