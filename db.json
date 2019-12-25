@@ -3,111 +3,189 @@
       "rId":0,
       "msg":"Success"
    },
-   "contentList":[
- {
-   "contentId": "10005",
-   "contentType": "imageWithQuestion",
-   "contentText": "Content1",
-   "contentWebUrl": "https://www.medongo.com/images/NewUI/data1/images/Home_Banner_4.jpg",
-   "contentLikesCount": 0,
-   "contentCommentsCount": 0,
-   "contentSharesCount": 0,
-   "hasQuestion": true,
-   "question": {
-     "questionId": "Q10002",
-     "question": "Modern lifestyle and diet is the cause of many health problems",
-     "questionType": "BINARY",
-     "answer": [
-       "TRUE",
-       "FALSE"
-     ]
+   "busData":{
+{
+    "status": "success",
+    "data": {
+        "vehicle_status": "valid",
+        "message": "Data fetched successfully",
+        "vehicle_data": {
+            "vehicle_id": "TS012345",
+            "pickup_points_data": [
+                {
+                    "pickuppoints": [
+                        {
+                            "_id": "5df72422dc20c93631a06e90",
+                            "address_text": "RTC Cross Road",
+                            "google_place_id": "El1SVEMgQ3Jvc3MgUmQsIEphd2FoYXIgTmFnYXIsIENoaWtrYWRwYWxseSwgTmV3IE5hbGxha3VudGEsIEh5ZGVyYWJhZCwgVGVsYW5nYW5hIDUwMDAyMCwgSW5kaWEiLiosChQKEgk7cHhelZnLOxEy5o2lO7k1cRIUChIJebdppeqZyzsRVvnlPQSpRgM",
+                            "priority_order": 10,
+                            "pickup_location_distance_data": "0 km",
+                            "pickuplocation_to_pickuplocation_distance": "0 km",
+                            "is_location_crossed": "1"
+                        },
+                        {
+                            "_id": "5dd7ec269e62b94cef1631ac",
+                            "address_text": "HITEC City",
+                            "google_place_id": "ChIJ32ldjNyTyzsR7qB_VeuLaBk",
+                            "priority_order": 9,
+                            "pickup_location_distance_data": "17.1 km",
+                            "pickuplocation_to_pickuplocation_distance": "17.1 km",
+                            "is_location_crossed": "0"
+                        },
+                        {
+                            "_id": "5dd27e16f2c30220b4b4abe9",
+                            "address_text": "Jubilee Hills",
+                            "google_place_id": "ChIJE3aoYsyWyzsRSb5iI6J_Mag",
+                            "priority_order": 8,
+                            "pickup_location_distance_data": "12.8 km",
+                            "pickuplocation_to_pickuplocation_distance": "5.3 km",
+                            "is_location_crossed": "1"
+                        },
+                        {
+                            "_id": "5d691d1b47e7d3131052f0d7",
+                            "address_text": "KPHB Colony Bus Stop",
+                            "google_place_id": "ChIJE9C3qQWRyzsRsKiO_-3CvPI",
+                            "priority_order": 7,
+                            "pickup_location_distance_data": "17.1 km",
+                            "pickuplocation_to_pickuplocation_distance": "11.6 km",
+                            "is_location_crossed": "0"
+                        },
+                        {
+                            "_id": "5d691d0c47e7d3131052f0d6",
+                            "address_text": "Kukatpally",
+                            "google_place_id": "ChIJWXOLQryRyzsRz2_S_DQL0AQ",
+                            "priority_order": 6,
+                            "pickup_location_distance_data": "14.9 km",
+                            "pickuplocation_to_pickuplocation_distance": "1.6 km",
+                            "is_location_crossed": "0"
+                        },
+                        {
+                            "_id": "5d691cf147e7d3131052f0d5",
+                            "address_text": "SR NAGAR METRO STATION",
+                            "google_place_id": "ChIJUQTbmMaQyzsRjzEsRGkl8lQ",
+                            "priority_order": 5,
+                            "pickup_location_distance_data": "9.1 km",
+                            "pickuplocation_to_pickuplocation_distance": "5.8 km",
+                            "is_location_crossed": "0"
+                        },
+                        {
+                            "_id": "5d691ce247e7d3131052f0d4",
+                            "address_text": "Ameerpet Metro Station",
+                            "google_place_id": "ChIJlyUvEc-QyzsRGx2zKuomU2Q",
+                            "priority_order": 4,
+                            "pickup_location_distance_data": "8.6 km",
+                            "pickuplocation_to_pickuplocation_distance": "0.7 km",
+                            "is_location_crossed": "0"
+                        },
+                        {
+                            "_id": "5d691cd447e7d3131052f0d3",
+                            "address_text": "Punjagutta Metro Station",
+                            "google_place_id": "ChIJoTOAi8qQyzsR_UMaw6Iwf2E",
+                            "priority_order": 3,
+                            "pickup_location_distance_data": "7.3 km",
+                            "pickuplocation_to_pickuplocation_distance": "1.3 km",
+                            "is_location_crossed": "0"
+                        },
+                        {
+                            "_id": "5d691cc247e7d3131052f0d2",
+                            "address_text": "Khairatabad Metro Station",
+                            "google_place_id": "ChIJ4yNWVESXyzsRQa6igaU6B1s",
+                            "priority_order": 2,
+                            "pickup_location_distance_data": "5.6 km",
+                            "pickuplocation_to_pickuplocation_distance": "3.4 km",
+                            "is_location_crossed": "0"
+                        },
+                        {
+                            "_id": "5d691cb047e7d3131052f0d1",
+                            "address_text": "Lakdikapul Metro Station",
+                            "google_place_id": "ChIJ8bhIXF2XyzsRPNUFFNIJ0QU",
+                            "priority_order": 1,
+                            "pickup_location_distance_data": "4.4 km",
+                            "pickuplocation_to_pickuplocation_distance": "1.6 km",
+                            "is_location_crossed": "0"
+                        }
+                    ],
+                    "_id": "5d691f1b47e7d3131052f0da",
+                    "routeid": "1",
+                    "startlocation": "SVSS",
+                    "endlocation": "KPHB"
+                }
+            ],
+            "students_data": [
+                {
+                    "studentid": "SK1001S333",
+                    "image": "https://skolorspis.s3.ap-south-1.amazonaws.com/1575540139145",
+                    "firstname": "Lion",
+                    "lastname": "L",
+                    "marking_status": "unmarked",
+                    "marked_on": ""
+                },
+                {
+                    "studentid": "SK1001S332",
+                    "image": "https://skolorspis.s3.ap-south-1.amazonaws.com/1575540365372",
+                    "firstname": "Tiger",
+                    "lastname": "T",
+                    "marking_status": "unmarked",
+                    "marked_on": ""
+                },
+                {
+                    "studentid": "SK1001S9",
+                    "image": "https://skolorspis.s3.ap-south-1.amazonaws.com/1575872017271",
+                    "firstname": "Linda",
+                    "lastname": "Mary",
+                    "marking_status": "unmarked",
+                    "marked_on": ""
+                },
+                {
+                    "studentid": "SKbs1",
+                    "image": "https://skolorspis.s3.ap-south-1.amazonaws.com/1574678125603",
+                    "firstname": "Rajashekar",
+                    "lastname": "Mekala",
+                    "marking_status": "unmarked",
+                    "marked_on": ""
+                },
+                {
+                    "studentid": "SK1001S6",
+                    "image": "https://skolorspis.s3.ap-south-1.amazonaws.com/1575871162113",
+                    "firstname": "David",
+                    "lastname": "Miller",
+                    "marking_status": "unmarked",
+                    "marked_on": ""
+                },
+                {
+                    "studentid": "SK1001S4",
+                    "image": "https://skolorspis.s3.ap-south-1.amazonaws.com/1575870980774",
+                    "firstname": "George",
+                    "lastname": "Bailey",
+                    "marking_status": "unmarked",
+                    "marked_on": ""
+                },
+                {
+                    "studentid": "SK1001S1",
+                    "image": "https://skolorspis.s3.ap-south-1.amazonaws.com/1575870372229",
+                    "firstname": "John",
+                    "lastname": "Doe",
+                    "marking_status": "present",
+                    "marked_on": "2019-12-24T06:57:49.052Z"
+                },
+                {
+                    "studentid": "SK1001S5",
+                    "image": "https://skolorspis.s3.ap-south-1.amazonaws.com/1575871162113",
+                    "firstname": "Roy",
+                    "lastname": "Wilson",
+                    "marking_status": "unmarked",
+                    "marked_on": ""
+                },
+                {
+                    "studentid": "SK1001S2",
+                    "image": "https://skolorspis.s3.ap-south-1.amazonaws.com/1575870600828",
+                    "firstname": "Dev",
+                    "lastname": "Smith",
+                    "marking_status": "unmarked",
+                    "marked_on": ""
+                }
+            ]
+        }
+    }
    }
- },
- {
-   "contentId": "10081",
-   "contentType": "imageWithText",
-   "contentMediaUrl": "https://www.medongo.com/images/NewUI/data1/images/Banner_02_wishlogo.jpg",
-   "contentText": "Content2",
-   "contentWebUrl": "https://www.medongo.com/control/home",
-   "contentLikesCount": 0,
-   "contentCommentsCount": 0,
-   "contentSharesCount": 0,
-   "hasQuestion": false
- },
- {
-   "contentId": "10084",
-   "contentType": "text",
-   "contentMediaUrl": "",
-   "contentText": "August 10 is the 222nd day of the year (223rd in leap years) in the Gregorian calendar. There are 143 days remaining until the end of the year. The term 'the 10th of August' is widely used by historians as a shorthand for the Storming of the Tuileries Palace on the 10th of August, 1792, the effective end of the French monarchy until it was restored in 1814.The Insurrection of 10 August 1792 was a defining event of the French Revolution. The storming of the Tuileries Palace by the National Guard of the Paris Commune and fédérés from Marseille and Brittany caused the fall of the French monarchy. King Louis XVI and the royal family took shelter with the suspended Legislative Assembly. The formal end of the monarchy occurred six weeks later as one of the first acts of the new National Convention. This insurrection and its outcomes are most commonly referred to by historians of the Revolution simply as the 10 August, other common designations include the day of the 10 August or the Second Revolution.",
-   "contentWebUrl": "https://en.wikipedia.org/wiki/Insurrection_of_10_August_1792",
-   "contentLikesCount": 0,
-   "contentCommentsCount": 0,
-   "contentSharesCount": 0,
-   "hasQuestion": false
- },
- {
-   "contentId": "10082",
-   "contentType": "imageWithQuestion",
-   "contentMediaUrl": "https://www.medongo.com/images/NewUI/data1/images/Home_Banner_3.jpg",
-   "contentText": "",
-   "contentWebUrl": "",
-   "contentLikesCount": 0,
-   "contentCommentsCount": 0,
-   "contentSharesCount": 0,
-   "hasQuestion": true,
-   "question": {
-     "questionId": "Q10010",
-     "question": "Are you suffering from cold due to changing weather?",
-     "questionType": "BINARY",
-     "answer": [
-       "YES",
-       "NO"
-     ]
-   }
- },
- {
-   "contentId": "10085",
-   "contentType": "question",
-   "contentMediaUrl": "",
-   "contentText": "",
-   "contentWebUrl": "",
-   "contentLikesCount": 0,
-   "contentCommentsCount": 0,
-   "contentSharesCount": 0,
-   "hasQuestion": true,
-   "question": {
-     "questionId": "Q10013",
-     "question": "How much water do you drink in a day approximately?",
-     "questionType": "singleChoice",
-     "answer": [
-       "2 litre",
-       "4 litre",
-        "6 litre",
-        "8 litre"
-     ]
-   }
- },
- {
-   "contentId": "10086",
-   "contentType": "imageWithQuestion",
-   "contentMediaUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/The_Cost_Of_The_Common_Cold_%26_Influenza.jpg",
-   "contentText": "",
-   "contentWebUrl": "",
-   "contentLikesCount": 0,
-   "contentCommentsCount": 0,
-   "contentSharesCount": 0,
-   "hasQuestion": true,
-   "question": {
-     "questionId": "Q10013",
-     "question": "Generally people get cold due to?",
-     "questionType": "multipleChoice",
-     "answer": [
-       "Weather change",
-"Drinking water change",
-        "Stress",
-        "Contact with people having cold"
-     ]
-   }
- }
-]
 }
