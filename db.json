@@ -3,7 +3,7 @@
       "rId":0,
       "msg":"Success"
    },
-   "busData":{
+   "bus_data":{
     "status": "success",
     "data": {
         "vehicle_status": "valid",
@@ -186,5 +186,5 @@
             ]
         }
     }
-   }
+}
 }
