@@ -20,7 +20,7 @@
               "priority_order": 10,
               "pickup_location_distance_data": "0 km",
               "pickuplocation_to_pickuplocation_distance": "0 km",
-              "is_location_crossed": "1"
+              "is_location_crossed": "0"
             },
             {
               "_id": "5dd7ec269e62b94cef1631ac",
@@ -38,7 +38,7 @@
               "priority_order": 8,
               "pickup_location_distance_data": "12.8 km",
               "pickuplocation_to_pickuplocation_distance": "5.3 km",
-              "is_location_crossed": "1"
+              "is_location_crossed": "0"
             },
             {
               "_id": "5d691d1b47e7d3131052f0d7",
