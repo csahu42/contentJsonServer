@@ -3,6 +3,23 @@
       "rId":0,
       "msg":"Success"
    },
+   
+   "studentAttendanceFail":{
+       "status": "fail",
+    "data": {
+        "student_status": "valid",
+        "status": "duplicate",
+        "message": "Already attendance is existed with this details"
+    }
+   },
+   "studentAttendanceSuccess":{
+       "status": "fail",
+    "data": {
+        "student_status": "valid",
+        "status": "duplicate",
+        "message": "Already attendance is existed with this details"
+    }
+   },
    "bus_data":{
   "status": "success",
   "data": {
