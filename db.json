@@ -23,6 +23,19 @@
        "message": "Already attendance is existed with this details"
     }
    },
+"studentAttendanceDriverSuccess":   {
+    "status": "success",
+    "data": {
+        "student_status": "valid",
+        "student_entry_status": "success",
+        "message": "Student entered successfully",
+        "entry_type": "pick_up",
+        "entry_time": "1574766421817",
+        "name": "Rajashekar Mekala",
+        "image": "https://skolorspis.s3.ap-south-1.amazonaws.com/1574678125603",
+        "isPresent": true
+    }
+},
    "bus_data":{
   "status": "success",
   "data": {
