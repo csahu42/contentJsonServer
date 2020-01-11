@@ -13,11 +13,14 @@
     }
    },
    "studentAttendanceSuccess":{
-       "status": "fail",
+       "status": "success",
     "data": {
         "student_status": "valid",
-        "status": "duplicate",
-        "message": "Already attendance is existed with this details"
+        "status": "present",
+       "student_name":"Sunaina Joshi",
+       "isPresent":true,
+       "image":"http://www.jagihenglobalconcept.com/wp-content/uploads/2018/08/girl.png",
+       "message": "Already attendance is existed with this details"
     }
    },
    "bus_data":{
