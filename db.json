@@ -37,7 +37,7 @@
          "attendeeEmail":"sreehitha@decathlon.com",
           "attendeePhone":"99007887",
           "is_checked_in":false,
-         "questions":[
+         "Questions":[
             {
                "Questiontype":"single/multi",
                "Question":"what is your sport?",
