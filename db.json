@@ -3,7 +3,7 @@
       "rId":0,
       "msg":"Success"
    },
-   bookingList:[
+   "bookingList":[
       {
    "bookingId":"AFS789798",
    "bookedBy":"Aruna Gangji",
