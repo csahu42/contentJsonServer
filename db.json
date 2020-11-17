@@ -16,7 +16,7 @@
          "attendee_id":"AFS789798G",
          "attendeeName":"Sreehitha G",
          "attendeeEmail":"sreehitha@decathlon.com",
-          "attendeePhone":99007887,
+          "attendeePhone":"99007887",
          "is_checked_in":false,
          "Questions":[
             {
@@ -32,9 +32,11 @@
          ]
       },
       {
+         "attendee_id":"AFS789796G",
          "attendeeName":"Sreehitha G",
          "attendeeEmail":"sreehitha@decathlon.com",
-          "attendeePhone":99007887,
+          "attendeePhone":"99007887",
+          "is_checked_in":false,
          "questions":[
             {
                "Questiontype":"single/multi",
