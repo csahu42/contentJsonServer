@@ -7,7 +7,7 @@
       {
    "bookingId":"AFS789798",
    "bookedBy":"Aruna Gangji",
-   "bookedOn":"2020-01-04T05:30:00'Z'",
+   "bookedOn":"2020-01-04T05:30:00Z",
    "ticketName":"10KM Run",
    "numberOfAttendees":2,
    "Status":"confirmed",
