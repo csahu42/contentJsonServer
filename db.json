@@ -5,10 +5,10 @@
    },
    bookingList:[
       {
-   "bookingId":AFS789798,
+   "bookingId":"AFS789798",
    "bookedBy":"Aruna Gangji",
-   "bookedOn":01/04/2020T05:30:000 (this is in UTC),
-   "ticketName":10KM Run,
+   "bookedOn":"2020-01-04T05:30:00'Z'",
+   "ticketName":"10KM Run",
    "numberOfAttendees":2,
    "Status":"confirmed",
    "Attendees":[
