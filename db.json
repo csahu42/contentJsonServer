@@ -3,55 +3,5 @@
       "rId":0,
       "msg":"Success"
    },
-   "bookingList":[
-      {
-   "bookingId":"AFS789798",
-   "bookedBy":"Aruna Gangji",
-   "bookedOn":"2020-01-04T05:30:00Z",
-   "ticketName":"10KM Run",
-   "numberOfAttendees":2,
-   "Status":"confirmed",
-   "Attendees":[
-      {
-         "attendee_id":"AFS789798G",
-         "attendeeName":"Sreehitha G",
-         "attendeeEmail":"sreehitha@decathlon.com",
-          "attendeePhone":"99007887",
-         "is_checked_in":false,
-         "Questions":[
-            {
-               "Questiontype":"single/multi",
-               "Question":"what is your sport?",
-               "Answer":"Badminton"
-            },
-            {
-               "Questiontype":"single/multi",
-               "Question":"Any injuries before?",
-               "Answer":"fracture "
-            }
-         ]
-      },
-      {
-         "attendee_id":"AFS789796G",
-         "attendeeName":"Sreehitha G",
-         "attendeeEmail":"sreehitha@decathlon.com",
-          "attendeePhone":"99007887",
-          "is_checked_in":false,
-         "Questions":[
-            {
-               "Questiontype":"single/multi",
-               "Question":"what is your sport?",
-               "Answer":"Badminton"
-            },
-            {
-               "Questiontype":"single/multi",
-               "Question":"Any injuries before?",
-               "Answer":"fracture "
-            }      
-        ]
-      }
-    ]
-}
-
-   ]
+ 
 }
